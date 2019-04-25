@@ -1,0 +1,12 @@
+# Node modules
+twitter-api/node_modules
+
+# Adonis directory for storing tmp files
+twitter-api/tmp
+
+# Environment variables, never commit this file
+twitter-api/.env
+twitter-api/node_modules
+
+# The development sqlite file
+twitter-api/database/development.sqlite
