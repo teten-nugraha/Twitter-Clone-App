@@ -10,3 +10,18 @@ twitter-api/node_modules
 
 # The development sqlite file
 twitter-api/database/development.sqlite
+
+twitter-client/.DS_Store
+twitter-client/node_modules/
+twitter-client/dist/
+twitter-client/npm-debug.log*
+twitter-client/yarn-debug.log*
+twitter-client/yarn-error.log*
+
+# Editor directories and files
+twitter-client/.idea
+twitter-client/.vscode
+twitter-client/*.suo
+twitter-client/*.ntvs*
+twitter-client/*.njsproj
+twitter-client/*.sln
